@@ -8,7 +8,7 @@ const Wrapper = styled.View`
   background: #040404;
   height: 210px;
   padding: 10px 30px;
-  margin-top: ${Constants.statusBarHeight}px;
+  margin-top: 10px;
 
   justify-content: center;
   align-items: flex-end;
