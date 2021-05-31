@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components/native';
-import Constants from 'expo-constants';
 
 import { FontAwesome } from '@expo/vector-icons';
 
