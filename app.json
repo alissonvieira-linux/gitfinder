@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "web.art",
-    "slug": "web.art",
+    "name": "Git Finder",
+    "slug": "gitfinder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
