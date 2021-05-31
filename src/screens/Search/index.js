@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Keyboard, Alert, ActivityIndicator } from 'react-native';
+import { Keyboard, Alert } from 'react-native';
 import {
   SearchContainer,
   SearchInput,

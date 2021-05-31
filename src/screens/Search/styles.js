@@ -1,10 +1,6 @@
 import styled from 'styled-components/native';
 import { Dimensions } from 'react-native';
 
-export const KeyboardView = styled.KeyboardAvoidingView`
-  flex: 1;
-`;
-
 export const SearchContainer = styled.View`
   flex-direction: row;
   justify-content: space-between;
