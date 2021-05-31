@@ -9,7 +9,7 @@ import FavoritesProvider from './src/contexts/FavoritesContext';
 export default function App() {
   return (
     <NavigationContainer>
-      <StatusBar style="light" />
+      <StatusBar style="dark" />
       <FavoritesProvider>
         <Navigation />
       </FavoritesProvider>

@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/native';
+import Constants from 'expo-constants';
 
 import { FontAwesome } from '@expo/vector-icons';
 
@@ -7,6 +8,7 @@ const Wrapper = styled.View`
   background: #040404;
   height: 210px;
   padding: 10px 30px;
+  margin-top: ${Constants.statusBarHeight}px;
 
   justify-content: center;
   align-items: flex-end;
